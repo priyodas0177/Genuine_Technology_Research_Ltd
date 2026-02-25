@@ -91,7 +91,7 @@ Date
 2022-06-03  142.650314  155.957857  156.110631
 2022-10-07  137.650604  155.902536  156.052521
 
-
+![image alt](https://github.com/priyodas0177/Genuine_Technology_Research_Ltd/blob/main/Trading_Adventure/Screenshot%202026-02-25%20234016.png)
 
 ##  Limitations
 - No transaction costs considered
