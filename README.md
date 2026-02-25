@@ -1,1 +1,0 @@
-# Genuine_Technology_Research_Ltd
