@@ -50,8 +50,8 @@ This indicates a bearish trend.
 
 
 ### 1️⃣ Clone Repository
-git clone 
-cd project-name  
+git clone https://github.com/priyodas0177/Genuine_Technology_Research_Ltd.git
+cd Trading_Adventure 
 
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt  
