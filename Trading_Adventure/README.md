@@ -1,12 +1,12 @@
-# 📈 Algorithmic Trading Adventure (Task 1)
+#  Algorithmic Trading Adventure (Task 1)
 
-## 📌 Project Overview
+##  Project Overview
 This project implements a class-based algorithmic trading system using Python.  
 The system downloads historical stock data, calculates moving averages, detects trading signals (Golden Cross and Death Cross), executes buy/sell decisions with a fixed budget, and evaluates the final profit or loss.
 
 ---
 
-## 🎯 Features
+##  Features
 - Download historical stock data using **yfinance**
 - Data cleaning (remove duplicates, handle missing values)
 - Calculate:
@@ -21,7 +21,7 @@ The system downloads historical stock data, calculates moving averages, detects 
 
 ---
 
-## 🧠 Trading Strategy Logic
+##  Trading Strategy Logic
 
 ### Golden Cross (Buy Signal)
 When:
@@ -39,9 +39,9 @@ MA50 yesterday ≥ MA200 yesterday
 
 This indicates a bearish trend.
 
----
 
-## 💰 Investment Rules
+
+##  Investment Rules
 - Initial budget: **$5000**
 - Buy maximum shares possible
 - Only one open position at a time
@@ -49,20 +49,20 @@ This indicates a bearish trend.
 - Force sell on last date if position still open
 
 
-### 1️⃣ Clone Repository
-git clone https://github.com/priyodas0177/Genuine_Technology_Research_Ltd.git 
-cd Genuine_Technology_Research_Ltd
-cd Trading_Adventure 
+###  Clone Repository
+- git clone https://github.com/priyodas0177/Genuine_Technology_Research_Ltd.git 
+- cd Genuine_Technology_Research_Ltd
+- cd Trading_Adventure 
 
-### 2️⃣ Install Dependencies
+###  Install Dependencies
 pip install -r requirements.txt  
 
 
-## ▶️ How to Run
+## How to Run
 python main.py
 
 
-## 📊 Output Example
+##  Output Example
 TRADES
 ('BUY', 2019-05-06, 49.72, 100)
 ('SELL', 2022-06-03, 142.65, 100)
@@ -93,7 +93,7 @@ Date
 
 
 
-## ⚠️ Limitations
+##  Limitations
 - No transaction costs considered
 - Moving averages are lagging indicators
 - Single stock testing only
